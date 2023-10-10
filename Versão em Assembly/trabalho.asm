@@ -756,7 +756,7 @@ printf_s	endp
 ;--------------------------------------------------------------------
 ; sprintf_w:
 ;--------------------------------------------------------------------
-;Função: Converte um inteiro (n) para (string)
+;Função: Converte um inteiro (n) para (string).
 ;		 sprintf(string, "%d", n)
 ;
 ;void sprintf_w(char *string->BX, WORD n->AX) {
