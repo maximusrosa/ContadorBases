@@ -174,7 +174,7 @@ int main(int argv , char *argc[])
     }
 
 
-    // Fechar os arquivos de entrada e saída
+    // fechar os arquivos de entrada e saída
     fclose(file);
     fclose(csv_file);
 
